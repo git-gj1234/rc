@@ -1,0 +1,9 @@
+(1) let them run commands in commands.py
+(2) run udp_listener.py and connect to it with commands.py
+(3) run nonblocking.py and connect to it with commands.py
+(4) explain and demonstrate controller in identification.py
+(5) demonstrate find_users.py while running identification.py
+(6) demonstrate game.py
+(7) explain the purpose of lobby.py
+(8) let them fill the blanks in lobby.py
+(9) let them fill the blanks in game.py
